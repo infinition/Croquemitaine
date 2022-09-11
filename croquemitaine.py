@@ -17,8 +17,6 @@ liste_extensions  = {}
 
 
 
-
-
 class StdoutRedirector(object):
     def __init__(self, text_widget):
         self.text_widget = text_widget
