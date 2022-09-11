@@ -1,5 +1,3 @@
-from cgitb import grey
-from turtle import color
 import customtkinter, tkinter
 from tkinter import *
 from PIL import Image, ImageTk
