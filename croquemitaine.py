@@ -1,4 +1,3 @@
-from ctypes import resize, sizeof
 from subprocess import REALTIME_PRIORITY_CLASS
 import customtkinter, tkinter
 from tkinter import *
