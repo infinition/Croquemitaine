@@ -10,7 +10,7 @@ import sys
 PATH = os.path.dirname(os.path.realpath(__file__))
 
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
-customtkinter.set_default_color_theme("assets/themes/dark-blue.json")  # Themes: "blue" (standard), "green", "dark-blue"
+customtkinter.set_default_color_theme(PATH + "\\assets/themes/dark-blue.json")  # Themes: "blue" (standard), "green", "dark-blue"
 dossier = ("C:\\Users\\Nephystos\\Downloads")
 liste_extensions  = {}
 
